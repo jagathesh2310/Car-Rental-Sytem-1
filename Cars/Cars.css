@@ -1,0 +1,31 @@
+.card-cars{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+
+.image-container-1{
+    position: relative;
+    display: flex;
+    padding: 50px;
+}
+.image-container-1{
+    justify-content: space-around;
+}
+
+    
+.card-body {
+    background-color: #555c66;
+}
+.card-title{
+    color: brown;
+    
+}
+.price-1{
+    color: burlywood;
+}
+li{
+    color: aliceblue;
+}
+.card{
+    width: 25rem;
+}
+
